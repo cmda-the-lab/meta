@@ -1,0 +1,16 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 300 300"
+>
+  <rect x="5" y="5" width="290" height="290" fill="none" stroke="lime" stroke-width="2"/>
+  <text
+    x="150"
+    y="150"
+    fill="blue"
+    font-size="90"
+    font-family="OpenSans-Light, Open Sans"
+    font-weight="300"
+    text-anchor="middle"
+    alignment-baseline="middle"
+  >/lab.</text>
+</svg>
