@@ -3,6 +3,8 @@
 This repo will hold all the notes, plans and other meta information relating to the concept of the lab itself.
 The project we create within the lab should each have their own repo.
 
+See [onboarding.md](onboarding.md) on how to get on board, and [how-we-work.md](how-we-work.md) on how we work.
+
 ## Cycles
 
 In The Lab, we work in cycles.
